@@ -1,0 +1,757 @@
+Indice,Saison,Emissions,Horizon,Percentile,Valeur
+Degrés-jours de croissance ,Annuel,Obs,1981-2010,Obs,2396.2
+Indice de gel ,Annuel,Obs,1981-2010,Obs,869.639
+Événements de gel-dégel ,Annuel,Obs,1981-2010,Obs,73.124
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),Obs,1981-2010,Obs,0.038
+Degrés-jours de croissance ,Annuel,rcp45,2041-2070,p10,2727.793
+Degrés-jours de croissance ,Annuel,rcp45,2041-2070,p50,2954.701
+Degrés-jours de croissance ,Annuel,rcp45,2041-2070,p90,3051.711
+Degrés-jours de croissance ,Annuel,rcp45,2071-2100,p10,2754.274
+Degrés-jours de croissance ,Annuel,rcp45,2071-2100,p50,3097.55
+Degrés-jours de croissance ,Annuel,rcp45,2071-2100,p90,3232.062
+Indice de gel ,Annuel,rcp85,2041-2070,p10,406.612
+Indice de gel ,Annuel,rcp85,2041-2070,p50,510.124
+Indice de gel ,Annuel,rcp85,2041-2070,p90,581.179
+Indice de gel ,Annuel,rcp85,2071-2100,p10,214.712
+Indice de gel ,Annuel,rcp85,2071-2100,p50,332.705
+Indice de gel ,Annuel,rcp85,2071-2100,p90,407.691
+Indice de gel ,Annuel,rcp45,2041-2070,p10,479.692
+Indice de gel ,Annuel,rcp45,2041-2070,p50,621.936
+Indice de gel ,Annuel,rcp45,2041-2070,p90,714.035
+Indice de gel ,Annuel,rcp45,2071-2100,p10,412.326
+Indice de gel ,Annuel,rcp45,2071-2100,p50,559.944
+Indice de gel ,Annuel,rcp45,2071-2100,p90,656.654
+Degrés-jours de croissance ,Annuel,rcp85,2041-2070,p10,2929.867
+Degrés-jours de croissance ,Annuel,rcp85,2041-2070,p50,3101.934
+Degrés-jours de croissance ,Annuel,rcp85,2041-2070,p90,3301.117
+Degrés-jours de croissance ,Annuel,rcp85,2071-2100,p10,3253.507
+Degrés-jours de croissance ,Annuel,rcp85,2071-2100,p50,3697.307
+Degrés-jours de croissance ,Annuel,rcp85,2071-2100,p90,3988.335
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),Obs,1981-2010,Obs,0.326
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),Obs,1981-2010,Obs,0.467
+Événements de gel-dégel ,Automne,Obs,1981-2010,Obs,20.021
+Événements de gel-dégel ,Été,Obs,1981-2010,Obs,0.003
+Événements de gel-dégel ,Hiver,Obs,1981-2010,Obs,25.429
+Événements de gel-dégel ,Printemps,Obs,1981-2010,Obs,27.614
+Événements de gel-dégel ,Annuel,rcp45,2041-2070,p10,58.2
+Événements de gel-dégel ,Annuel,rcp45,2041-2070,p50,60.815
+Événements de gel-dégel ,Annuel,rcp45,2041-2070,p90,69.923
+Événements de gel-dégel ,Annuel,rcp45,2071-2100,p10,56.07
+Événements de gel-dégel ,Annuel,rcp45,2071-2100,p50,59.983
+Événements de gel-dégel ,Annuel,rcp45,2071-2100,p90,63.148
+Événements de gel-dégel ,Annuel,rcp85,2041-2070,p10,54.382
+Événements de gel-dégel ,Annuel,rcp85,2041-2070,p50,60.312
+Événements de gel-dégel ,Annuel,rcp85,2041-2070,p90,67.909
+Événements de gel-dégel ,Annuel,rcp85,2071-2100,p10,47.856
+Événements de gel-dégel ,Annuel,rcp85,2071-2100,p50,52.836
+Événements de gel-dégel ,Annuel,rcp85,2071-2100,p90,65.12
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2041-2070,p10,0.627
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2041-2070,p50,1.324
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2041-2070,p90,2.459
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2071-2100,p10,2.003
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2071-2100,p50,3.77
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2071-2100,p90,6.123
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2041-2070,p10,0.147
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2041-2070,p50,0.57
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2041-2070,p90,1.221
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2071-2100,p10,0.242
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2071-2100,p50,0.965
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2071-2100,p90,1.542
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),Obs,1981-2010,Obs,0.121
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2041-2070,p10,1.239
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2041-2070,p50,2.211
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2041-2070,p90,3.13
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2071-2100,p10,1.683
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2071-2100,p50,3.241
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2071-2100,p90,3.976
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2041-2070,p10,2.514
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2041-2070,p50,3.341
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2041-2070,p90,5.129
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2071-2100,p10,4.52
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2071-2100,p50,5.986
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2071-2100,p90,6.805
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2041-2070,p10,3.314
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2041-2070,p50,3.708
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2041-2070,p90,5.53
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2071-2100,p10,4.844
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2071-2100,p50,6.647
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2071-2100,p90,6.895
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2041-2070,p10,1.826
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2041-2070,p50,2.594
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2041-2070,p90,3.505
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2071-2100,p10,1.912
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2071-2100,p50,3.53
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2071-2100,p90,4.617
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),Obs,1981-2010,Obs,1.13
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),Obs,1981-2010,Obs,1.709
+Précipitations liquides totales ,Annuel,Obs,1981-2010,Obs,785.331
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2041-2070,p10,0.586
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2041-2070,p50,1.942
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2041-2070,p90,5.067
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2071-2100,p10,0.841
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2071-2100,p50,3.865
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp45,2071-2100,p90,6.864
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2041-2070,p10,2.465
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2041-2070,p50,5.72
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2041-2070,p90,11.579
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2071-2100,p10,9.311
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2071-2100,p50,19.074
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),rcp85,2071-2100,p90,40.839
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2041-2070,p10,5.317
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2041-2070,p50,10.129
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2041-2070,p90,15.556
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2071-2100,p10,6.921
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2071-2100,p50,16.23
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp45,2071-2100,p90,20.885
+Précipitations liquides totales ,Annuel,rcp85,2041-2070,p10,861.598
+Précipitations liquides totales ,Annuel,rcp85,2041-2070,p50,930.047
+Précipitations liquides totales ,Annuel,rcp85,2041-2070,p90,1013.953
+Précipitations liquides totales ,Annuel,rcp85,2071-2100,p10,960.799
+Précipitations liquides totales ,Annuel,rcp85,2071-2100,p50,1024.193
+Précipitations liquides totales ,Annuel,rcp85,2071-2100,p90,1080.944
+Précipitations liquides totales ,Annuel,rcp45,2041-2070,p10,827.966
+Précipitations liquides totales ,Annuel,rcp45,2041-2070,p50,889.352
+Précipitations liquides totales ,Annuel,rcp45,2041-2070,p90,926.828
+Précipitations liquides totales ,Annuel,rcp45,2071-2100,p10,887.714
+Précipitations liquides totales ,Annuel,rcp45,2071-2100,p50,918.299
+Précipitations liquides totales ,Annuel,rcp45,2071-2100,p90,984.79
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2041-2070,p10,13.102
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2041-2070,p50,19.78
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2041-2070,p90,29.894
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2071-2100,p10,24.586
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2071-2100,p50,46.273
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),rcp85,2071-2100,p90,63.008
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2041-2070,p10,7.974
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2041-2070,p50,12.086
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2041-2070,p90,17.994
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2071-2100,p10,8.391
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2071-2100,p50,18.07
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp45,2071-2100,p90,23.852
+Précipitations liquides totales ,Automne,Obs,1981-2010,Obs,262.466
+Précipitations liquides totales ,Été,Obs,1981-2010,Obs,278.397
+Précipitations liquides totales ,Hiver,Obs,1981-2010,Obs,52.272
+Précipitations liquides totales ,Printemps,Obs,1981-2010,Obs,192.27
+Maximum des précipitations cumulées sur cinq jours ,Annuel,Obs,1981-2010,Obs,74.572
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2041-2070,p10,16.205
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2041-2070,p50,22.097
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2041-2070,p90,31.617
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2071-2100,p10,27.07
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2071-2100,p50,50.453
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),rcp85,2071-2100,p90,68.632
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,Obs,1981-2010,Obs,67.823
+Précipitations totales ,Annuel,Obs,1981-2010,Obs,1009.368
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp45,2041-2070,p10,72.462
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp45,2041-2070,p50,77.207
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp45,2041-2070,p90,83.797
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp45,2071-2100,p10,71.972
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp45,2071-2100,p50,78.539
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp45,2071-2100,p90,85.92
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp85,2041-2070,p10,71.667
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp85,2041-2070,p50,77.418
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp85,2041-2070,p90,87.481
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp85,2071-2100,p10,75.26
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp85,2071-2100,p50,82.785
+Maximum des précipitations cumulées sur cinq jours ,Annuel,rcp85,2071-2100,p90,89.16
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp45,2041-2070,p10,65.654
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp45,2041-2070,p50,71.613
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp45,2041-2070,p90,79.07
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp45,2071-2100,p10,67.073
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp45,2071-2100,p50,72.972
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp45,2071-2100,p90,78.191
+Précipitations totales ,Annuel,rcp45,2041-2070,p10,1014.988
+Précipitations totales ,Annuel,rcp45,2041-2070,p50,1039.322
+Précipitations totales ,Annuel,rcp45,2041-2070,p90,1094.983
+Précipitations totales ,Annuel,rcp45,2071-2100,p10,1045.741
+Précipitations totales ,Annuel,rcp45,2071-2100,p50,1072.559
+Précipitations totales ,Annuel,rcp45,2071-2100,p90,1103.426
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp85,2041-2070,p10,65.177
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp85,2041-2070,p50,69.439
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp85,2041-2070,p90,81.746
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp85,2071-2100,p10,68.873
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp85,2071-2100,p50,75.047
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,rcp85,2071-2100,p90,79.5
+Précipitations totales ,Annuel,rcp85,2041-2070,p10,1028.677
+Précipitations totales ,Annuel,rcp85,2041-2070,p50,1103.115
+Précipitations totales ,Annuel,rcp85,2041-2070,p90,1131.784
+Précipitations totales ,Annuel,rcp85,2071-2100,p10,1070.403
+Précipitations totales ,Annuel,rcp85,2071-2100,p50,1126.656
+Précipitations totales ,Annuel,rcp85,2071-2100,p90,1169.91
+Précipitations solides totales ,Annuel,Obs,1981-2010,Obs,224.037
+Précipitations totales ,Automne,Obs,1981-2010,Obs,282.32
+Précipitations totales ,Été,Obs,1981-2010,Obs,278.397
+Précipitations totales ,Hiver,Obs,1981-2010,Obs,217.365
+Précipitations totales ,Printemps,Obs,1981-2010,Obs,230.598
+Températures moyennes ,Annuel,Obs,1981-2010,Obs,6.782
+Précipitations solides totales ,Annuel,rcp45,2041-2070,p10,131.493
+Précipitations solides totales ,Annuel,rcp45,2041-2070,p50,157.666
+Précipitations solides totales ,Annuel,rcp45,2041-2070,p90,183.096
+Précipitations solides totales ,Annuel,rcp45,2071-2100,p10,116.983
+Précipitations solides totales ,Annuel,rcp45,2071-2100,p50,152.921
+Précipitations solides totales ,Annuel,rcp45,2071-2100,p90,173.894
+Précipitations solides totales ,Annuel,rcp85,2041-2070,p10,117.831
+Précipitations solides totales ,Annuel,rcp85,2041-2070,p50,155.003
+Précipitations solides totales ,Annuel,rcp85,2041-2070,p90,173.392
+Précipitations solides totales ,Annuel,rcp85,2071-2100,p10,78.845
+Précipitations solides totales ,Annuel,rcp85,2071-2100,p50,123.074
+Précipitations solides totales ,Annuel,rcp85,2071-2100,p90,139.277
+Précipitations solides totales ,Automne,Obs,1981-2010,Obs,19.855
+Précipitations solides totales ,Été,Obs,1981-2010,Obs,0
+Précipitations solides totales ,Hiver,Obs,1981-2010,Obs,165.093
+Précipitations solides totales ,Printemps,Obs,1981-2010,Obs,38.328
+Températures moyennes ,Annuel,rcp45,2041-2070,p10,8.254
+Températures moyennes ,Annuel,rcp45,2041-2070,p50,9.232
+Températures moyennes ,Annuel,rcp45,2041-2070,p90,9.952
+Températures moyennes ,Annuel,rcp45,2071-2100,p10,8.387
+Températures moyennes ,Annuel,rcp45,2071-2100,p50,9.92
+Températures moyennes ,Annuel,rcp45,2071-2100,p90,10.62
+Précipitations liquides totales ,Automne,rcp45,2041-2070,p10,255.877
+Précipitations liquides totales ,Automne,rcp45,2041-2070,p50,273.539
+Précipitations liquides totales ,Automne,rcp45,2041-2070,p90,293.117
+Précipitations liquides totales ,Été,rcp45,2041-2070,p10,269.12
+Précipitations liquides totales ,Été,rcp45,2041-2070,p50,281.605
+Précipitations liquides totales ,Été,rcp45,2041-2070,p90,294.587
+Précipitations liquides totales ,Hiver,rcp45,2041-2070,p10,81.32
+Précipitations liquides totales ,Hiver,rcp45,2041-2070,p50,116.898
+Précipitations liquides totales ,Hiver,rcp45,2041-2070,p90,142.541
+Précipitations liquides totales ,Printemps,rcp45,2041-2070,p10,214.912
+Précipitations liquides totales ,Printemps,rcp45,2041-2070,p50,223.332
+Précipitations liquides totales ,Printemps,rcp45,2041-2070,p90,258.361
+Précipitations liquides totales ,Automne,rcp45,2071-2100,p10,229.741
+Précipitations liquides totales ,Automne,rcp45,2071-2100,p50,272.519
+Précipitations liquides totales ,Automne,rcp45,2071-2100,p90,299.387
+Précipitations liquides totales ,Été,rcp45,2071-2100,p10,272.52
+Précipitations liquides totales ,Été,rcp45,2071-2100,p50,284.569
+Précipitations liquides totales ,Été,rcp45,2071-2100,p90,301.406
+Précipitations liquides totales ,Hiver,rcp45,2071-2100,p10,102.412
+Précipitations liquides totales ,Hiver,rcp45,2071-2100,p50,123
+Précipitations liquides totales ,Hiver,rcp45,2071-2100,p90,178.819
+Précipitations liquides totales ,Printemps,rcp45,2071-2100,p10,223.263
+Précipitations liquides totales ,Printemps,rcp45,2071-2100,p50,239.563
+Précipitations liquides totales ,Printemps,rcp45,2071-2100,p90,253.104
+Températures moyennes ,Annuel,rcp85,2041-2070,p10,9.21
+Températures moyennes ,Annuel,rcp85,2041-2070,p50,9.937
+Températures moyennes ,Annuel,rcp85,2041-2070,p90,10.571
+Températures moyennes ,Annuel,rcp85,2071-2100,p10,10.486
+Températures moyennes ,Annuel,rcp85,2071-2100,p50,12.536
+Températures moyennes ,Annuel,rcp85,2071-2100,p90,13.517
+Températures moyennes ,Automne,Obs,1981-2010,Obs,8.698
+Températures moyennes ,Été,Obs,1981-2010,Obs,19.999
+Températures moyennes ,Hiver,Obs,1981-2010,Obs,-7.79
+Températures moyennes ,Printemps,Obs,1981-2010,Obs,5.892
+Précipitations liquides totales ,Automne,rcp85,2041-2070,p10,255.498
+Précipitations liquides totales ,Automne,rcp85,2041-2070,p50,284.93
+Précipitations liquides totales ,Automne,rcp85,2041-2070,p90,300.154
+Précipitations liquides totales ,Été,rcp85,2041-2070,p10,264.842
+Précipitations liquides totales ,Été,rcp85,2041-2070,p50,285.667
+Précipitations liquides totales ,Été,rcp85,2041-2070,p90,311.35
+Précipitations liquides totales ,Hiver,rcp85,2041-2070,p10,96.969
+Précipitations liquides totales ,Hiver,rcp85,2041-2070,p50,129.415
+Précipitations liquides totales ,Hiver,rcp85,2041-2070,p90,168.306
+Précipitations liquides totales ,Printemps,rcp85,2041-2070,p10,224.049
+Précipitations liquides totales ,Printemps,rcp85,2041-2070,p50,238.306
+Précipitations liquides totales ,Printemps,rcp85,2041-2070,p90,260.727
+Précipitations liquides totales ,Automne,rcp85,2071-2100,p10,246.27
+Précipitations liquides totales ,Automne,rcp85,2071-2100,p50,280.794
+Précipitations liquides totales ,Automne,rcp85,2071-2100,p90,310.158
+Précipitations liquides totales ,Été,rcp85,2071-2100,p10,244.433
+Précipitations liquides totales ,Été,rcp85,2071-2100,p50,282.77
+Précipitations liquides totales ,Été,rcp85,2071-2100,p90,304.482
+Précipitations liquides totales ,Hiver,rcp85,2071-2100,p10,134.633
+Précipitations liquides totales ,Hiver,rcp85,2071-2100,p50,182.358
+Précipitations liquides totales ,Hiver,rcp85,2071-2100,p90,226.667
+Précipitations liquides totales ,Printemps,rcp85,2071-2100,p10,255.066
+Précipitations liquides totales ,Printemps,rcp85,2071-2100,p50,272.801
+Précipitations liquides totales ,Printemps,rcp85,2071-2100,p90,285.248
+Nombre de jours > 0°C ,Automne,Obs,1981-2010,Obs,67.403
+Nombre de jours > 0°C ,Été,Obs,1981-2010,Obs,91.997
+Nombre de jours > 0°C ,Hiver,Obs,1981-2010,Obs,4.595
+Nombre de jours > 0°C ,Printemps,Obs,1981-2010,Obs,54.158
+Précipitations totales ,Automne,rcp45,2041-2070,p10,262.364
+Précipitations totales ,Automne,rcp45,2041-2070,p50,277.606
+Précipitations totales ,Automne,rcp45,2041-2070,p90,306.195
+Précipitations totales ,Été,rcp45,2041-2070,p10,269.12
+Précipitations totales ,Été,rcp45,2041-2070,p50,281.605
+Précipitations totales ,Été,rcp45,2041-2070,p90,294.587
+Précipitations totales ,Hiver,rcp45,2041-2070,p10,222.428
+Précipitations totales ,Hiver,rcp45,2041-2070,p50,248.223
+Précipitations totales ,Hiver,rcp45,2041-2070,p90,270.77
+Précipitations totales ,Printemps,rcp45,2041-2070,p10,231.715
+Précipitations totales ,Printemps,rcp45,2041-2070,p50,244.914
+Précipitations totales ,Printemps,rcp45,2041-2070,p90,283.369
+Précipitations totales ,Automne,rcp45,2071-2100,p10,237.988
+Précipitations totales ,Automne,rcp45,2071-2100,p50,276.336
+Précipitations totales ,Automne,rcp45,2071-2100,p90,309.666
+Précipitations totales ,Été,rcp45,2071-2100,p10,272.52
+Précipitations totales ,Été,rcp45,2071-2100,p50,284.569
+Précipitations totales ,Été,rcp45,2071-2100,p90,301.406
+Précipitations totales ,Hiver,rcp45,2071-2100,p10,238.039
+Précipitations totales ,Hiver,rcp45,2071-2100,p50,251.726
+Précipitations totales ,Hiver,rcp45,2071-2100,p90,276.012
+Précipitations totales ,Printemps,rcp45,2071-2100,p10,241.597
+Précipitations totales ,Printemps,rcp45,2071-2100,p50,256.243
+Précipitations totales ,Printemps,rcp45,2071-2100,p90,269.391
+Précipitations totales ,Automne,rcp85,2041-2070,p10,268.824
+Précipitations totales ,Automne,rcp85,2041-2070,p50,282.017
+Précipitations totales ,Automne,rcp85,2041-2070,p90,300.734
+Précipitations totales ,Été,rcp85,2041-2070,p10,265.29
+Précipitations totales ,Été,rcp85,2041-2070,p50,286.442
+Précipitations totales ,Été,rcp85,2041-2070,p90,309.299
+Précipitations totales ,Hiver,rcp85,2041-2070,p10,227.382
+Précipitations totales ,Hiver,rcp85,2041-2070,p50,263.018
+Précipitations totales ,Hiver,rcp85,2041-2070,p90,282.011
+Précipitations totales ,Printemps,rcp85,2041-2070,p10,244.241
+Précipitations totales ,Printemps,rcp85,2041-2070,p50,267.409
+Précipitations totales ,Printemps,rcp85,2041-2070,p90,275.332
+Précipitations totales ,Automne,rcp85,2071-2100,p10,254.338
+Précipitations totales ,Automne,rcp85,2071-2100,p50,285.949
+Précipitations totales ,Automne,rcp85,2071-2100,p90,319.527
+Précipitations totales ,Été,rcp85,2071-2100,p10,246.089
+Précipitations totales ,Été,rcp85,2071-2100,p50,280.91
+Précipitations totales ,Été,rcp85,2071-2100,p90,300.803
+Précipitations totales ,Hiver,rcp85,2071-2100,p10,252.47
+Précipitations totales ,Hiver,rcp85,2071-2100,p50,278.062
+Précipitations totales ,Hiver,rcp85,2071-2100,p90,307.63
+Précipitations totales ,Printemps,rcp85,2071-2100,p10,261.916
+Précipitations totales ,Printemps,rcp85,2071-2100,p50,290.67
+Précipitations totales ,Printemps,rcp85,2071-2100,p90,303.392
+Précipitations solides totales ,Automne,rcp45,2041-2070,p10,2.929
+Précipitations solides totales ,Automne,rcp45,2041-2070,p50,5.785
+Précipitations solides totales ,Automne,rcp45,2041-2070,p90,13.078
+Précipitations solides totales ,Été,rcp45,2041-2070,p10,0
+Précipitations solides totales ,Été,rcp45,2041-2070,p50,0
+Précipitations solides totales ,Été,rcp45,2041-2070,p90,0
+Précipitations solides totales ,Hiver,rcp45,2041-2070,p10,110.173
+Précipitations solides totales ,Hiver,rcp45,2041-2070,p50,130.513
+Précipitations solides totales ,Hiver,rcp45,2041-2070,p90,149.276
+Précipitations solides totales ,Printemps,rcp45,2041-2070,p10,16.468
+Précipitations solides totales ,Printemps,rcp45,2041-2070,p50,21.003
+Précipitations solides totales ,Printemps,rcp45,2041-2070,p90,27.238
+Précipitations solides totales ,Automne,rcp45,2071-2100,p10,2.979
+Précipitations solides totales ,Automne,rcp45,2071-2100,p50,5.667
+Précipitations solides totales ,Automne,rcp45,2071-2100,p90,10.918
+Précipitations solides totales ,Été,rcp45,2071-2100,p10,0
+Précipitations solides totales ,Été,rcp45,2071-2100,p50,0
+Précipitations solides totales ,Été,rcp45,2071-2100,p90,0
+Précipitations solides totales ,Hiver,rcp45,2071-2100,p10,101.495
+Précipitations solides totales ,Hiver,rcp45,2071-2100,p50,128.342
+Précipitations solides totales ,Hiver,rcp45,2071-2100,p90,143.005
+Précipitations solides totales ,Printemps,rcp45,2071-2100,p10,11.937
+Précipitations solides totales ,Printemps,rcp45,2071-2100,p50,19.568
+Précipitations solides totales ,Printemps,rcp45,2071-2100,p90,22.831
+Événements de gel-dégel ,Automne,rcp85,2041-2070,p10,7.95
+Événements de gel-dégel ,Automne,rcp85,2041-2070,p50,11.888
+Événements de gel-dégel ,Automne,rcp85,2041-2070,p90,16.709
+Événements de gel-dégel ,Été,rcp85,2041-2070,p10,0
+Événements de gel-dégel ,Été,rcp85,2041-2070,p50,0
+Événements de gel-dégel ,Été,rcp85,2041-2070,p90,0
+Événements de gel-dégel ,Hiver,rcp85,2041-2070,p10,25.497
+Événements de gel-dégel ,Hiver,rcp85,2041-2070,p50,31
+Événements de gel-dégel ,Hiver,rcp85,2041-2070,p90,31.777
+Événements de gel-dégel ,Printemps,rcp85,2041-2070,p10,17.762
+Événements de gel-dégel ,Printemps,rcp85,2041-2070,p50,18.662
+Événements de gel-dégel ,Printemps,rcp85,2041-2070,p90,23.285
+Événements de gel-dégel ,Automne,rcp85,2071-2100,p10,3.227
+Événements de gel-dégel ,Automne,rcp85,2071-2100,p50,4.241
+Événements de gel-dégel ,Automne,rcp85,2071-2100,p90,13.215
+Événements de gel-dégel ,Été,rcp85,2071-2100,p10,0
+Événements de gel-dégel ,Été,rcp85,2071-2100,p50,0
+Événements de gel-dégel ,Été,rcp85,2071-2100,p90,0
+Événements de gel-dégel ,Hiver,rcp85,2071-2100,p10,28.259
+Événements de gel-dégel ,Hiver,rcp85,2071-2100,p50,31.865
+Événements de gel-dégel ,Hiver,rcp85,2071-2100,p90,38.579
+Événements de gel-dégel ,Printemps,rcp85,2071-2100,p10,12.412
+Événements de gel-dégel ,Printemps,rcp85,2071-2100,p50,14.747
+Événements de gel-dégel ,Printemps,rcp85,2071-2100,p90,20.568
+Nombre de jours < -25 °C ,Hiver,Obs,1981-2010,Obs,4.894
+Précipitations solides totales ,Automne,rcp85,2041-2070,p10,1.03
+Précipitations solides totales ,Automne,rcp85,2041-2070,p50,3.479
+Précipitations solides totales ,Automne,rcp85,2041-2070,p90,11.469
+Précipitations solides totales ,Été,rcp85,2041-2070,p10,0
+Précipitations solides totales ,Été,rcp85,2041-2070,p50,0
+Précipitations solides totales ,Été,rcp85,2041-2070,p90,0
+Précipitations solides totales ,Hiver,rcp85,2041-2070,p10,100.849
+Précipitations solides totales ,Hiver,rcp85,2041-2070,p50,129.853
+Précipitations solides totales ,Hiver,rcp85,2041-2070,p90,146.952
+Précipitations solides totales ,Printemps,rcp85,2041-2070,p10,14.474
+Précipitations solides totales ,Printemps,rcp85,2041-2070,p50,19.346
+Précipitations solides totales ,Printemps,rcp85,2041-2070,p90,23.881
+Précipitations solides totales ,Automne,rcp85,2071-2100,p10,0.049
+Précipitations solides totales ,Automne,rcp85,2071-2100,p50,1.091
+Précipitations solides totales ,Automne,rcp85,2071-2100,p90,8.79
+Précipitations solides totales ,Été,rcp85,2071-2100,p10,0
+Précipitations solides totales ,Été,rcp85,2071-2100,p50,0
+Précipitations solides totales ,Été,rcp85,2071-2100,p90,0
+Précipitations solides totales ,Hiver,rcp85,2071-2100,p10,72.954
+Précipitations solides totales ,Hiver,rcp85,2071-2100,p50,100.51
+Précipitations solides totales ,Hiver,rcp85,2071-2100,p90,116.067
+Précipitations solides totales ,Printemps,rcp85,2071-2100,p10,5.813
+Précipitations solides totales ,Printemps,rcp85,2071-2100,p50,12.43
+Précipitations solides totales ,Printemps,rcp85,2071-2100,p90,16.887
+Événements de gel-dégel ,Automne,rcp45,2041-2070,p10,10.553
+Événements de gel-dégel ,Automne,rcp45,2041-2070,p50,13.618
+Événements de gel-dégel ,Automne,rcp45,2041-2070,p90,16.403
+Événements de gel-dégel ,Été,rcp45,2041-2070,p10,0
+Événements de gel-dégel ,Été,rcp45,2041-2070,p50,0
+Événements de gel-dégel ,Été,rcp45,2041-2070,p90,0
+Événements de gel-dégel ,Hiver,rcp45,2041-2070,p10,24.717
+Événements de gel-dégel ,Hiver,rcp45,2041-2070,p50,28.376
+Événements de gel-dégel ,Hiver,rcp45,2041-2070,p90,31.273
+Événements de gel-dégel ,Printemps,rcp45,2041-2070,p10,18.583
+Événements de gel-dégel ,Printemps,rcp45,2041-2070,p50,20.435
+Événements de gel-dégel ,Printemps,rcp45,2041-2070,p90,25.685
+Événements de gel-dégel ,Automne,rcp45,2071-2100,p10,8.095
+Événements de gel-dégel ,Automne,rcp45,2071-2100,p50,11.276
+Événements de gel-dégel ,Automne,rcp45,2071-2100,p90,16.021
+Événements de gel-dégel ,Été,rcp45,2071-2100,p10,0
+Événements de gel-dégel ,Été,rcp45,2071-2100,p50,0
+Événements de gel-dégel ,Été,rcp45,2071-2100,p90,0
+Événements de gel-dégel ,Hiver,rcp45,2071-2100,p10,24.727
+Événements de gel-dégel ,Hiver,rcp45,2071-2100,p50,28.965
+Événements de gel-dégel ,Hiver,rcp45,2071-2100,p90,31.964
+Événements de gel-dégel ,Printemps,rcp45,2071-2100,p10,17.256
+Événements de gel-dégel ,Printemps,rcp45,2071-2100,p50,18.635
+Événements de gel-dégel ,Printemps,rcp45,2071-2100,p90,23.409
+Températures moyennes ,Automne,rcp45,2041-2070,p10,10.031
+Températures moyennes ,Automne,rcp45,2041-2070,p50,10.957
+Températures moyennes ,Automne,rcp45,2041-2070,p90,11.742
+Températures moyennes ,Été,rcp45,2041-2070,p10,21.249
+Températures moyennes ,Été,rcp45,2041-2070,p50,22.356
+Températures moyennes ,Été,rcp45,2041-2070,p90,23.054
+Températures moyennes ,Hiver,rcp45,2041-2070,p10,-6.072
+Températures moyennes ,Hiver,rcp45,2041-2070,p50,-5.116
+Températures moyennes ,Hiver,rcp45,2041-2070,p90,-3.728
+Températures moyennes ,Printemps,rcp45,2041-2070,p10,7.453
+Températures moyennes ,Printemps,rcp45,2041-2070,p50,7.888
+Températures moyennes ,Printemps,rcp45,2041-2070,p90,9.02
+Températures moyennes ,Automne,rcp45,2071-2100,p10,9.837
+Températures moyennes ,Automne,rcp45,2071-2100,p50,11.564
+Températures moyennes ,Automne,rcp45,2071-2100,p90,12.47
+Températures moyennes ,Été,rcp45,2071-2100,p10,21.402
+Températures moyennes ,Été,rcp45,2071-2100,p50,23.088
+Températures moyennes ,Été,rcp45,2071-2100,p90,23.742
+Températures moyennes ,Hiver,rcp45,2071-2100,p10,-5.658
+Températures moyennes ,Hiver,rcp45,2071-2100,p50,-4.502
+Températures moyennes ,Hiver,rcp45,2071-2100,p90,-2.891
+Températures moyennes ,Printemps,rcp45,2071-2100,p10,7.979
+Températures moyennes ,Printemps,rcp45,2071-2100,p50,8.827
+Températures moyennes ,Printemps,rcp45,2071-2100,p90,9.738
+Moyenne des températures minimales quotidiennes ,Annuel,Obs,1981-2010,Obs,2.086
+Températures moyennes ,Automne,rcp85,2041-2070,p10,10.432
+Températures moyennes ,Automne,rcp85,2041-2070,p50,11.732
+Températures moyennes ,Automne,rcp85,2041-2070,p90,12.736
+Températures moyennes ,Été,rcp85,2041-2070,p10,22.543
+Températures moyennes ,Été,rcp85,2041-2070,p50,23.304
+Températures moyennes ,Été,rcp85,2041-2070,p90,24.489
+Températures moyennes ,Hiver,rcp85,2041-2070,p10,-5.079
+Températures moyennes ,Hiver,rcp85,2041-2070,p50,-4.245
+Températures moyennes ,Hiver,rcp85,2041-2070,p90,-2.949
+Températures moyennes ,Printemps,rcp85,2041-2070,p10,8.381
+Températures moyennes ,Printemps,rcp85,2041-2070,p50,8.69
+Températures moyennes ,Printemps,rcp85,2041-2070,p90,9.395
+Températures moyennes ,Automne,rcp85,2071-2100,p10,12.042
+Températures moyennes ,Automne,rcp85,2071-2100,p50,14.23
+Températures moyennes ,Automne,rcp85,2071-2100,p90,15.124
+Températures moyennes ,Été,rcp85,2071-2100,p10,23.614
+Températures moyennes ,Été,rcp85,2071-2100,p50,25.975
+Températures moyennes ,Été,rcp85,2071-2100,p90,27.353
+Températures moyennes ,Hiver,rcp85,2071-2100,p10,-3.022
+Températures moyennes ,Hiver,rcp85,2071-2100,p50,-1.297
+Températures moyennes ,Hiver,rcp85,2071-2100,p90,-0.08
+Températures moyennes ,Printemps,rcp85,2071-2100,p10,9.695
+Températures moyennes ,Printemps,rcp85,2071-2100,p50,10.55
+Températures moyennes ,Printemps,rcp85,2071-2100,p90,12.172
+Moyenne des températures minimales quotidiennes ,Annuel,rcp45,2041-2070,p10,3.561
+Moyenne des températures minimales quotidiennes ,Annuel,rcp45,2041-2070,p50,4.43
+Moyenne des températures minimales quotidiennes ,Annuel,rcp45,2041-2070,p90,5.36
+Moyenne des températures minimales quotidiennes ,Annuel,rcp45,2071-2100,p10,4.165
+Moyenne des températures minimales quotidiennes ,Annuel,rcp45,2071-2100,p50,4.966
+Moyenne des températures minimales quotidiennes ,Annuel,rcp45,2071-2100,p90,6.041
+Moyenne des températures minimales quotidiennes ,Annuel,rcp85,2041-2070,p10,4.508
+Moyenne des températures minimales quotidiennes ,Annuel,rcp85,2041-2070,p50,5.489
+Moyenne des températures minimales quotidiennes ,Annuel,rcp85,2041-2070,p90,6.164
+Moyenne des températures minimales quotidiennes ,Annuel,rcp85,2071-2100,p10,6.3
+Moyenne des températures minimales quotidiennes ,Annuel,rcp85,2071-2100,p50,7.934
+Moyenne des températures minimales quotidiennes ,Annuel,rcp85,2071-2100,p90,9.078
+Moyenne des températures minimales quotidiennes ,Automne,Obs,1981-2010,Obs,4.4
+Moyenne des températures minimales quotidiennes ,Été,Obs,1981-2010,Obs,14.75
+Moyenne des températures minimales quotidiennes ,Hiver,Obs,1981-2010,Obs,-12.02
+Moyenne des températures minimales quotidiennes ,Printemps,Obs,1981-2010,Obs,0.876
+Nombre de nuits > 20 °C,Obs,1981-2010,Obs,6.858,
+Nombre de nuits > 22 °C,Obs,1981-2010,Obs,1.374,
+Nombre de nuits > 20 °C,rcp45,2041-2070,p10,14.874,
+Nombre de nuits > 20 °C,rcp45,2041-2070,p50,21.47,
+Nombre de nuits > 20 °C,rcp45,2041-2070,p90,30.248,
+Nombre de nuits > 20 °C,rcp45,2071-2100,p10,16.362,
+Nombre de nuits > 20 °C,rcp45,2071-2100,p50,28.367,
+Nombre de nuits > 20 °C,rcp45,2071-2100,p90,37.894,
+Nombre de nuits > 20 °C,rcp85,2041-2070,p10,26.045,
+Nombre de nuits > 20 °C,rcp85,2041-2070,p50,33.152,
+Nombre de nuits > 20 °C,rcp85,2041-2070,p90,42.867,
+Nombre de nuits > 20 °C,rcp85,2071-2100,p10,39.171,
+Nombre de nuits > 20 °C,rcp85,2071-2100,p50,60.586,
+Nombre de nuits > 20 °C,rcp85,2071-2100,p90,76.148,
+Nombre de jours > 32 °C,Obs,1981-2010,Obs,3.247,
+Nombre de jours < -25 °C ,Hiver,rcp45,2041-2070,p10,0.55
+Nombre de jours < -25 °C ,Hiver,rcp45,2041-2070,p50,0.85
+Nombre de jours < -25 °C ,Hiver,rcp45,2041-2070,p90,1.748
+Nombre de jours < -25 °C ,Hiver,rcp45,2071-2100,p10,0.129
+Nombre de jours < -25 °C ,Hiver,rcp45,2071-2100,p50,0.282
+Nombre de jours < -25 °C ,Hiver,rcp45,2071-2100,p90,1.092
+Nombre de jours < -25 °C ,Hiver,rcp85,2041-2070,p10,0.177
+Nombre de jours < -25 °C ,Hiver,rcp85,2041-2070,p50,0.458
+Nombre de jours < -25 °C ,Hiver,rcp85,2041-2070,p90,0.827
+Nombre de jours < -25 °C ,Hiver,rcp85,2071-2100,p10,0
+Nombre de jours < -25 °C ,Hiver,rcp85,2071-2100,p50,0.026
+Nombre de jours < -25 °C ,Hiver,rcp85,2071-2100,p90,0.148
+Nombre de jours > 30 °C,Obs,1981-2010,Obs,10.735,
+Moyenne des températures minimales quotidiennes ,Automne,rcp45,2041-2070,p10,5.615
+Moyenne des températures minimales quotidiennes ,Automne,rcp45,2041-2070,p50,6.557
+Moyenne des températures minimales quotidiennes ,Automne,rcp45,2041-2070,p90,7.41
+Moyenne des températures minimales quotidiennes ,Été,rcp45,2041-2070,p10,15.727
+Moyenne des températures minimales quotidiennes ,Été,rcp45,2041-2070,p50,16.882
+Moyenne des températures minimales quotidiennes ,Été,rcp45,2041-2070,p90,17.584
+Moyenne des températures minimales quotidiennes ,Hiver,rcp45,2041-2070,p10,-9.976
+Moyenne des températures minimales quotidiennes ,Hiver,rcp45,2041-2070,p50,-8.991
+Moyenne des températures minimales quotidiennes ,Hiver,rcp45,2041-2070,p90,-7.37
+Moyenne des températures minimales quotidiennes ,Printemps,rcp45,2041-2070,p10,2.388
+Moyenne des températures minimales quotidiennes ,Printemps,rcp45,2041-2070,p50,3.025
+Moyenne des températures minimales quotidiennes ,Printemps,rcp45,2041-2070,p90,4.214
+Moyenne des températures minimales quotidiennes ,Automne,rcp45,2071-2100,p10,5.701
+Moyenne des températures minimales quotidiennes ,Automne,rcp45,2071-2100,p50,7.405
+Moyenne des températures minimales quotidiennes ,Automne,rcp45,2071-2100,p90,8.069
+Moyenne des températures minimales quotidiennes ,Été,rcp45,2071-2100,p10,16.214
+Moyenne des températures minimales quotidiennes ,Été,rcp45,2071-2100,p50,17.476
+Moyenne des températures minimales quotidiennes ,Été,rcp45,2071-2100,p90,18.278
+Moyenne des températures minimales quotidiennes ,Hiver,rcp45,2071-2100,p10,-9.492
+Moyenne des températures minimales quotidiennes ,Hiver,rcp45,2071-2100,p50,-8.039
+Moyenne des températures minimales quotidiennes ,Hiver,rcp45,2071-2100,p90,-6.12
+Moyenne des températures minimales quotidiennes ,Printemps,rcp45,2071-2100,p10,3.149
+Moyenne des températures minimales quotidiennes ,Printemps,rcp45,2071-2100,p50,3.686
+Moyenne des températures minimales quotidiennes ,Printemps,rcp45,2071-2100,p90,4.909
+Moyenne des température maximales quotidiennes ,Annuel,Obs,1981-2010,Obs,11.478
+Moyenne des températures minimales quotidiennes ,Automne,rcp85,2041-2070,p10,5.954
+Moyenne des températures minimales quotidiennes ,Automne,rcp85,2041-2070,p50,7.239
+Moyenne des températures minimales quotidiennes ,Automne,rcp85,2041-2070,p90,8.338
+Moyenne des températures minimales quotidiennes ,Été,rcp85,2041-2070,p10,16.993
+Moyenne des températures minimales quotidiennes ,Été,rcp85,2041-2070,p50,17.655
+Moyenne des températures minimales quotidiennes ,Été,rcp85,2041-2070,p90,18.923
+Moyenne des températures minimales quotidiennes ,Hiver,rcp85,2041-2070,p10,-8.961
+Moyenne des températures minimales quotidiennes ,Hiver,rcp85,2041-2070,p50,-7.907
+Moyenne des températures minimales quotidiennes ,Hiver,rcp85,2041-2070,p90,-6.152
+Moyenne des températures minimales quotidiennes ,Printemps,rcp85,2041-2070,p10,3.625
+Moyenne des températures minimales quotidiennes ,Printemps,rcp85,2041-2070,p50,3.749
+Moyenne des températures minimales quotidiennes ,Printemps,rcp85,2041-2070,p90,4.688
+Moyenne des températures minimales quotidiennes ,Automne,rcp85,2071-2100,p10,7.306
+Moyenne des températures minimales quotidiennes ,Automne,rcp85,2071-2100,p50,9.9
+Moyenne des températures minimales quotidiennes ,Automne,rcp85,2071-2100,p90,10.814
+Moyenne des températures minimales quotidiennes ,Été,rcp85,2071-2100,p10,18.102
+Moyenne des températures minimales quotidiennes ,Été,rcp85,2071-2100,p50,20.394
+Moyenne des températures minimales quotidiennes ,Été,rcp85,2071-2100,p90,21.688
+Moyenne des températures minimales quotidiennes ,Hiver,rcp85,2071-2100,p10,-6.193
+Moyenne des températures minimales quotidiennes ,Hiver,rcp85,2071-2100,p50,-4.541
+Moyenne des températures minimales quotidiennes ,Hiver,rcp85,2071-2100,p90,-2.912
+Moyenne des températures minimales quotidiennes ,Printemps,rcp85,2071-2100,p10,5.479
+Moyenne des températures minimales quotidiennes ,Printemps,rcp85,2071-2100,p50,5.747
+Moyenne des températures minimales quotidiennes ,Printemps,rcp85,2071-2100,p90,7.08
+Nombre de nuits > 22 °C,Annuel,rcp45,2041-2070,p10,3.779
+Nombre de nuits > 22 °C,Annuel,rcp45,2041-2070,p50,6.783
+Nombre de nuits > 22 °C,Annuel,rcp45,2041-2070,p90,11.108
+Nombre de nuits > 22 °C,Annuel,rcp45,2071-2100,p10,5.023
+Nombre de nuits > 22 °C,Annuel,rcp45,2071-2100,p50,10.392
+Nombre de nuits > 22 °C,Annuel,rcp45,2071-2100,p90,17.879
+Nombre de nuits > 22 °C,Annuel,rcp85,2041-2070,p10,9.592
+Nombre de nuits > 22 °C,Annuel,rcp85,2041-2070,p50,13.95
+Nombre de nuits > 22 °C,Annuel,rcp85,2041-2070,p90,22.761
+Nombre de nuits > 22 °C,Annuel,rcp85,2071-2100,p10,20.127
+Nombre de nuits > 22 °C,Annuel,rcp85,2071-2100,p50,34.864
+Nombre de nuits > 22 °C,Annuel,rcp85,2071-2100,p90,53.624
+Moyenne des température maximales quotidiennes ,Annuel,rcp45,2041-2070,p10,12.947
+Moyenne des température maximales quotidiennes ,Annuel,rcp45,2041-2070,p50,13.835
+Moyenne des température maximales quotidiennes ,Annuel,rcp45,2041-2070,p90,14.545
+Moyenne des température maximales quotidiennes ,Annuel,rcp45,2071-2100,p10,13.107
+Moyenne des température maximales quotidiennes ,Annuel,rcp45,2071-2100,p50,14.557
+Moyenne des température maximales quotidiennes ,Annuel,rcp45,2071-2100,p90,15.199
+Nombre de jours > 32 °C,Annuel,rcp85,2041-2070,p10,15.626
+Nombre de jours > 32 °C,Annuel,rcp85,2041-2070,p50,21.209
+Nombre de jours > 32 °C,Annuel,rcp85,2041-2070,p90,32.408
+Nombre de jours > 32 °C,Annuel,rcp85,2071-2100,p10,26.617
+Nombre de jours > 32 °C,Annuel,rcp85,2071-2100,p50,46.43
+Nombre de jours > 32 °C,Annuel,rcp85,2071-2100,p90,68.473
+Moyenne des température maximales quotidiennes ,Annuel,rcp85,2041-2070,p10,13.912
+Moyenne des température maximales quotidiennes ,Annuel,rcp85,2041-2070,p50,14.699
+Moyenne des température maximales quotidiennes ,Annuel,rcp85,2041-2070,p90,15.244
+Moyenne des température maximales quotidiennes ,Annuel,rcp85,2071-2100,p10,15.216
+Moyenne des température maximales quotidiennes ,Annuel,rcp85,2071-2100,p50,17.077
+Moyenne des température maximales quotidiennes ,Annuel,rcp85,2071-2100,p90,17.956
+Nombre de jours > 32 °C,Annuel,rcp45,2041-2070,p10,7.711
+Nombre de jours > 32 °C,Annuel,rcp45,2041-2070,p50,13.123
+Nombre de jours > 32 °C,Annuel,rcp45,2041-2070,p90,19.256
+Nombre de jours > 32 °C,Annuel,rcp45,2071-2100,p10,9.389
+Nombre de jours > 32 °C,Annuel,rcp45,2071-2100,p50,17.852
+Nombre de jours > 32 °C,Annuel,rcp45,2071-2100,p90,26.148
+Nombre de jours > 30 °C,Annuel,rcp85,2041-2070,p10,33.939
+Nombre de jours > 30 °C,Annuel,rcp85,2041-2070,p50,40.879
+Nombre de jours > 30 °C,Annuel,rcp85,2041-2070,p90,54.089
+Nombre de jours > 30 °C,Annuel,rcp85,2071-2100,p10,48.417
+Nombre de jours > 30 °C,Annuel,rcp85,2071-2100,p50,74.794
+Nombre de jours > 30 °C,Annuel,rcp85,2071-2100,p90,90.006
+Nombre de jours > 30 °C,Annuel,rcp45,2041-2070,p10,20.408
+Nombre de jours > 30 °C,Annuel,rcp45,2041-2070,p50,30.108
+Nombre de jours > 30 °C,Annuel,rcp45,2041-2070,p90,39.08
+Nombre de jours > 30 °C,Annuel,rcp45,2071-2100,p10,23.514
+Nombre de jours > 30 °C,Annuel,rcp45,2071-2100,p50,35.883
+Nombre de jours > 30 °C,Annuel,rcp45,2071-2100,p90,47.509
+Moyenne des température maximales quotidiennes ,Automne,Obs,1981-2010,Obs,12.997
+Moyenne des température maximales quotidiennes ,Été,Obs,1981-2010,Obs,25.248
+Moyenne des température maximales quotidiennes ,Hiver,Obs,1981-2010,Obs,-3.56
+Moyenne des température maximales quotidiennes ,Printemps,Obs,1981-2010,Obs,10.908
+Nombre de jours > 0°C ,Automne,rcp85,2041-2070,p10,72.021
+Nombre de jours > 0°C ,Automne,rcp85,2041-2070,p50,77.435
+Nombre de jours > 0°C ,Automne,rcp85,2041-2070,p90,82.411
+Nombre de jours > 0°C ,Été,rcp85,2041-2070,p10,91.998
+Nombre de jours > 0°C ,Été,rcp85,2041-2070,p50,92
+Nombre de jours > 0°C ,Été,rcp85,2041-2070,p90,92
+Nombre de jours > 0°C ,Hiver,rcp85,2041-2070,p10,7.627
+Nombre de jours > 0°C ,Hiver,rcp85,2041-2070,p50,10.114
+Nombre de jours > 0°C ,Hiver,rcp85,2041-2070,p90,16.488
+Nombre de jours > 0°C ,Printemps,rcp85,2041-2070,p10,62.486
+Nombre de jours > 0°C ,Printemps,rcp85,2041-2070,p50,67.382
+Nombre de jours > 0°C ,Printemps,rcp85,2041-2070,p90,68.442
+Nombre de jours > 0°C ,Automne,rcp85,2071-2100,p10,75.526
+Nombre de jours > 0°C ,Automne,rcp85,2071-2100,p50,86.641
+Nombre de jours > 0°C ,Automne,rcp85,2071-2100,p90,87.739
+Nombre de jours > 0°C ,Été,rcp85,2071-2100,p10,92
+Nombre de jours > 0°C ,Été,rcp85,2071-2100,p50,92
+Nombre de jours > 0°C ,Été,rcp85,2071-2100,p90,92
+Nombre de jours > 0°C ,Hiver,rcp85,2071-2100,p10,11.226
+Nombre de jours > 0°C ,Hiver,rcp85,2071-2100,p50,20.708
+Nombre de jours > 0°C ,Hiver,rcp85,2071-2100,p90,32.558
+Nombre de jours > 0°C ,Printemps,rcp85,2071-2100,p10,68.167
+Nombre de jours > 0°C ,Printemps,rcp85,2071-2100,p50,72.592
+Nombre de jours > 0°C ,Printemps,rcp85,2071-2100,p90,77.797
+Nombre de jours > 0°C ,Automne,rcp45,2041-2070,p10,72.347
+Nombre de jours > 0°C ,Automne,rcp45,2041-2070,p50,76.453
+Nombre de jours > 0°C ,Automne,rcp45,2041-2070,p90,79.505
+Nombre de jours > 0°C ,Été,rcp45,2041-2070,p10,92
+Nombre de jours > 0°C ,Été,rcp45,2041-2070,p50,92
+Nombre de jours > 0°C ,Été,rcp45,2041-2070,p90,92
+Nombre de jours > 0°C ,Hiver,rcp45,2041-2070,p10,6.473
+Nombre de jours > 0°C ,Hiver,rcp45,2041-2070,p50,8.348
+Nombre de jours > 0°C ,Hiver,rcp45,2041-2070,p90,12.847
+Nombre de jours > 0°C ,Printemps,rcp45,2041-2070,p10,60.176
+Nombre de jours > 0°C ,Printemps,rcp45,2041-2070,p50,63.708
+Nombre de jours > 0°C ,Printemps,rcp45,2041-2070,p90,66.295
+Nombre de jours > 0°C ,Automne,rcp45,2071-2100,p10,71.595
+Nombre de jours > 0°C ,Automne,rcp45,2071-2100,p50,78.332
+Nombre de jours > 0°C ,Automne,rcp45,2071-2100,p90,81.745
+Nombre de jours > 0°C ,Été,rcp45,2071-2100,p10,92
+Nombre de jours > 0°C ,Été,rcp45,2071-2100,p50,92
+Nombre de jours > 0°C ,Été,rcp45,2071-2100,p90,92
+Nombre de jours > 0°C ,Hiver,rcp45,2071-2100,p10,6.861
+Nombre de jours > 0°C ,Hiver,rcp45,2071-2100,p50,10.668
+Nombre de jours > 0°C ,Hiver,rcp45,2071-2100,p90,17.291
+Nombre de jours > 0°C ,Printemps,rcp45,2071-2100,p10,62.755
+Nombre de jours > 0°C ,Printemps,rcp45,2071-2100,p50,65.439
+Nombre de jours > 0°C ,Printemps,rcp45,2071-2100,p90,69.868
+Moyenne des température maximales quotidiennes ,Automne,rcp45,2041-2070,p10,14.448
+Moyenne des température maximales quotidiennes ,Automne,rcp45,2041-2070,p50,15.357
+Moyenne des température maximales quotidiennes ,Automne,rcp45,2041-2070,p90,16.03
+Moyenne des température maximales quotidiennes ,Été,rcp45,2041-2070,p10,26.771
+Moyenne des température maximales quotidiennes ,Été,rcp45,2041-2070,p50,27.805
+Moyenne des température maximales quotidiennes ,Été,rcp45,2041-2070,p90,28.619
+Moyenne des température maximales quotidiennes ,Hiver,rcp45,2041-2070,p10,-2.204
+Moyenne des température maximales quotidiennes ,Hiver,rcp45,2041-2070,p50,-1.241
+Moyenne des température maximales quotidiennes ,Hiver,rcp45,2041-2070,p90,-0.085
+Moyenne des température maximales quotidiennes ,Printemps,rcp45,2041-2070,p10,12.258
+Moyenne des température maximales quotidiennes ,Printemps,rcp45,2041-2070,p50,12.751
+Moyenne des température maximales quotidiennes ,Printemps,rcp45,2041-2070,p90,13.921
+Moyenne des température maximales quotidiennes ,Automne,rcp45,2071-2100,p10,14.224
+Moyenne des température maximales quotidiennes ,Automne,rcp45,2071-2100,p50,15.893
+Moyenne des température maximales quotidiennes ,Automne,rcp45,2071-2100,p90,16.872
+Moyenne des température maximales quotidiennes ,Été,rcp45,2071-2100,p10,26.93
+Moyenne des température maximales quotidiennes ,Été,rcp45,2071-2100,p50,28.493
+Moyenne des température maximales quotidiennes ,Été,rcp45,2071-2100,p90,29.43
+Moyenne des température maximales quotidiennes ,Hiver,rcp45,2071-2100,p10,-1.823
+Moyenne des température maximales quotidiennes ,Hiver,rcp45,2071-2100,p50,-0.965
+Moyenne des température maximales quotidiennes ,Hiver,rcp45,2071-2100,p90,0.338
+Moyenne des température maximales quotidiennes ,Printemps,rcp45,2071-2100,p10,12.703
+Moyenne des température maximales quotidiennes ,Printemps,rcp45,2071-2100,p50,13.58
+Moyenne des température maximales quotidiennes ,Printemps,rcp45,2071-2100,p90,14.85
+Moyenne des température maximales quotidiennes ,Automne,rcp85,2041-2070,p10,14.91
+Moyenne des température maximales quotidiennes ,Automne,rcp85,2041-2070,p50,16.141
+Moyenne des température maximales quotidiennes ,Automne,rcp85,2041-2070,p90,17.194
+Moyenne des température maximales quotidiennes ,Été,rcp85,2041-2070,p10,28.038
+Moyenne des température maximales quotidiennes ,Été,rcp85,2041-2070,p50,28.679
+Moyenne des température maximales quotidiennes ,Été,rcp85,2041-2070,p90,30.02
+Moyenne des température maximales quotidiennes ,Hiver,rcp85,2041-2070,p10,-1.305
+Moyenne des température maximales quotidiennes ,Hiver,rcp85,2041-2070,p50,-0.635
+Moyenne des température maximales quotidiennes ,Hiver,rcp85,2041-2070,p90,0.255
+Moyenne des température maximales quotidiennes ,Printemps,rcp85,2041-2070,p10,13.113
+Moyenne des température maximales quotidiennes ,Printemps,rcp85,2041-2070,p50,13.826
+Moyenne des température maximales quotidiennes ,Printemps,rcp85,2041-2070,p90,14.27
+Moyenne des température maximales quotidiennes ,Automne,rcp85,2071-2100,p10,16.778
+Moyenne des température maximales quotidiennes ,Automne,rcp85,2071-2100,p50,18.56
+Moyenne des température maximales quotidiennes ,Automne,rcp85,2071-2100,p90,19.665
+Moyenne des température maximales quotidiennes ,Été,rcp85,2071-2100,p10,29.126
+Moyenne des température maximales quotidiennes ,Été,rcp85,2071-2100,p50,31.474
+Moyenne des température maximales quotidiennes ,Été,rcp85,2071-2100,p90,33.018
+Moyenne des température maximales quotidiennes ,Hiver,rcp85,2071-2100,p10,0.15
+Moyenne des température maximales quotidiennes ,Hiver,rcp85,2071-2100,p50,1.493
+Moyenne des température maximales quotidiennes ,Hiver,rcp85,2071-2100,p90,2.752
+Moyenne des température maximales quotidiennes ,Printemps,rcp85,2071-2100,p10,14.56
+Moyenne des température maximales quotidiennes ,Printemps,rcp85,2071-2100,p50,15.517
+Moyenne des température maximales quotidiennes ,Printemps,rcp85,2071-2100,p90,16.901
+Indice de gel ,Annuel,hist,1981-2010,p50,868.63
+Événements de gel-dégel ,Annuel,hist,1981-2010,p50,73.134
+Événements de gel-dégel ,Automne,hist,1981-2010,p50,20.072
+Événements de gel-dégel ,Été,hist,1981-2010,p50,0
+Événements de gel-dégel ,Hiver,hist,1981-2010,p50,26.484
+Événements de gel-dégel ,Printemps,hist,1981-2010,p50,27.645
+Degrés-jours de croissance ,Annuel,hist,1981-2010,p50,2414.615
+Nombre de vagues de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),hist,1981-2010,p50,0.036
+Nombre de vagues de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),hist,1981-2010,p50,0.37
+Nombre de vagues de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),hist,1981-2010,p50,0.556
+Nombre de jours de vague de chaleur ,Classe 1 (Tmin > 20°C; Tmax > 33°C),hist,1981-2010,p50,0.13
+Nombre de jours de vague de chaleur ,Classe 2 (Tmin > 18°C; Tmax > 31°C),hist,1981-2010,p50,1.513
+Nombre de jours de vague de chaleur ,Classe 3 (Tmin > 16°C; Tmax > 31°C),hist,1981-2010,p50,2.244
+Précipitations liquides totales ,Annuel,hist,1981-2010,p50,810.951
+Précipitations liquides totales ,Automne,hist,1981-2010,p50,253.391
+Précipitations liquides totales ,Été,hist,1981-2010,p50,280.404
+Précipitations liquides totales ,Hiver,hist,1981-2010,p50,73.18
+Précipitations liquides totales ,Printemps,hist,1981-2010,p50,195.672
+Maximum des précipitations cumulées sur cinq jours ,Annuel,hist,1981-2010,p50,72.201
+Maximum des précipitations cumulées sur cinq jours ,Avril à septembre,hist,1981-2010,p50,65.397
+Précipitations totales ,Annuel,hist,1981-2010,p50,996.117
+Précipitations totales ,Automne,hist,1981-2010,p50,266.525
+Précipitations totales ,Été,hist,1981-2010,p50,280.546
+Précipitations totales ,Hiver,hist,1981-2010,p50,217.072
+Précipitations totales ,Printemps,hist,1981-2010,p50,227.676
+Précipitations solides totales ,Annuel,hist,1981-2010,p50,181.108
+Précipitations solides totales ,Automne,hist,1981-2010,p50,12.183
+Précipitations solides totales ,Été,hist,1981-2010,p50,0
+Précipitations solides totales ,Hiver,hist,1981-2010,p50,141.053
+Précipitations solides totales ,Printemps,hist,1981-2010,p50,29.625
+Températures moyennes ,Annuel,hist,1981-2010,p50,6.787
+Températures moyennes ,Automne,hist,1981-2010,p50,8.562
+Températures moyennes ,Été,hist,1981-2010,p50,20.13
+Températures moyennes ,Hiver,hist,1981-2010,p50,-7.754
+Températures moyennes ,Printemps,hist,1981-2010,p50,6.011
+Nombre de jours > 0°C ,Automne,hist,1981-2010,p50,66.686
+Nombre de jours > 0°C ,Été,hist,1981-2010,p50,92
+Nombre de jours > 0°C ,Hiver,hist,1981-2010,p50,4.239
+Nombre de jours > 0°C ,Printemps,hist,1981-2010,p50,53.826
+Nombre de jours < -25 °C ,Hiver,hist,1981-2010,p50,4.656
+Moyenne des températures minimales quotidiennes ,Annuel,hist,1981-2010,p50,2.072
+Moyenne des températures minimales quotidiennes ,Automne,hist,1981-2010,p50,4.265
+Moyenne des températures minimales quotidiennes ,Été,hist,1981-2010,p50,14.768
+Moyenne des températures minimales quotidiennes ,Hiver,hist,1981-2010,p50,-12.081
+Moyenne des températures minimales quotidiennes ,Printemps,hist,1981-2010,p50,1.074
+Nombre de nuits > 20 °C,Annuel,hist,1981-2010,p50,6.756
+Nombre de nuits > 22 °C,Annuel,hist,1981-2010,p50,1.51
+Nombre de jours > 32 °C,Annuel,hist,1981-2010,p50,3.172
+Nombre de jours > 30 °C,Annuel,hist,1981-2010,p50,10.964
+Moyenne des température maximales quotidiennes ,Annuel,hist,1981-2010,p50,11.514
+Moyenne des température maximales quotidiennes ,Automne,hist,1981-2010,p50,12.845
+Moyenne des température maximales quotidiennes ,Été,hist,1981-2010,p50,25.479
+Moyenne des température maximales quotidiennes ,Hiver,hist,1981-2010,p50,-3.445
+Moyenne des température maximales quotidiennes ,Printemps,hist,1981-2010,p50,10.934

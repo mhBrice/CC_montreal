@@ -1,0 +1,254 @@
+---
+title: "Portraits des changements climatiques attendus pour la région de Montréal"
+date: "01/11/2021"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+  html_document:
+    css: "theme_html.css"
+    toc: yes
+    toc_float: yes
+    toc_depth: 3
+---
+
+```{r setup, echo = FALSE}
+knitr::opts_chunk$set(
+  comment = "#",
+  echo = FALSE,
+  collapse = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  cache = FALSE,
+  fig.width=3.5, fig.height=3.5, fig.retina=3,
+  fig.align = 'center'
+)
+options(repos=structure(c(CRAN="http://cran.r-project.org")))
+```
+
+```{r package}
+library(readr)
+library(dplyr)
+library(graphicsutils)
+library(scales)
+```
+
+
+```{r fun}
+source("fun.R")
+```
+
+
+```{r data}
+ouranos_cc <- read_csv("data/Montréal_Laval-v1.2.0.csv") %>% filter(Percentile != "Obs")
+```
+
+# Scénarios
+
+Ce document vise à présenter une synthèse des principaux changements attendus au cours des prochaines décennies pour le climat du sud du Québec, particulièrement à Montréal. L'objectif est de documenter les changements qui auront un impact sur la croissance et la survie des végétaux au Jardin botanique de Montréal.
+
+Les données proviennent d'[Ouranos](https://portclim.ouranos.ca/#/regions/28)
+
+Les figures représentent les changements projetés dans le temps selon deux scénarios d'émissions de gaz à effet de serre : le scénario modéré (RCP 4.5), qui suppose une stabilisation des émissions d'ici la fin du siècle, ainsi que le scénario élevé (RCP 8.5), qui suppose une augmentation des émissions jusqu'à la fin du siècle. 
+
+Les saisons réfèrent à des périodes de trois mois : l’hiver (décembre-janvier-février), le printemps (mars-avril-mai), l’été (juin-juillet-août) et l’automne (septembre-octobre-novembre).
+
+Les valeurs représentent des moyennes pour la région sélectionnée, calculées à partir d’un ensemble de simulations climatiques globales pour la période de référence 1981-2010, la période 2041-2070 (l’horizon 2050) et la période 2071-2100 (l’horizon 2080). L’intervalle dans le tableau indique les 10e et 90e percentiles des 11 simulations climatiques forcées avec chacun des RCP. Ainsi, les 10e et 90e percentiles représentent la sensibilité des différents modèles climatiques aux émissions de gaz à effet de serre utilisées comme forçage ainsi qu’à la variabilité naturelle du climat.
+
+# Prévisions clés
+
+
+- Augmentation température
+
+- Allongement de la saison de croissance
+
+- Augmentation de l'intensité et de la longueur des vagues de chaleur
+
+- Augmentation des épisodes de gel-dégel en hiver, mais diminution au printemps et à l'automne
+
+- Augmentation des précipitations en hiver et au printemps, peu de changement en été
+
+- Plus d'événements de précipitations abondantes et extrêmes
+
+- Diminution du couvert de neige
+
+- Sécheresses agricoles : Conditions plus sèches du sol annuellement et pour la saison estivale
+
+- Augmentation des orages, mais peu de consensus sur les tempêtes (cyclones, vent, verglas)
+
+
+\pagebreak
+
+# Indicateurs de température
+
+## Températures moyennes quotidiennes
+
+```{r, fig.width=7, fig.height=3}
+par(mfrow = c(1,4), mar = c(3,4,1,1))
+plot_clim(clim = ouranos_cc, indice = "Températures moyennes", 
+        saison = "Printemps", legpos = NA, 
+        main = "Printemps")
+par(mar = c(3,2,1,1))
+plot_clim(clim = ouranos_cc, indice = "Températures moyennes", 
+        saison = "Été", 
+        ylab = "", legpos = NA, main = "Été")
+
+plot_clim(clim = ouranos_cc, indice = "Températures moyennes", 
+        saison = "Automne", 
+        ylab = "", legpos = NA, main = "Automne")
+
+plot_clim(clim = ouranos_cc, indice = "Températures moyennes", 
+        saison = "Hiver", 
+        ylab = "", legpos = "topleft", main = "Hiver")
+```
+
+> Hausse des moyennes de températures quotidiennes (température annuelle: +2.44 à +5.75°C selon le scénario et la période).
+
+\pagebreak
+
+## Degrés-jours de croissance
+
+```{r}
+par(mar = c(3,4,1,1))
+bp_clim(clim = ouranos_cc, indice = "Degrés-jours de croissance")
+```
+
+
+**Définition**: Un degré-jour est l’écart, en degrés Celsius, qui sépare la température moyenne quotidienne d'une valeur de base de 4$^\circ$C. Si la valeur est égale ou inférieure à 4$^\circ$C, la journée a zéro degré-jour de croissance. 
+
+> Le nombre de degrés-jours augmente (+ 540 à 1283 selon le scénario et la période).
+
+\pagebreak
+
+## Nombre de jours > 0°C 
+
+```{r, fig.width=6, fig.height=3}
+par(mfrow = c(1,3), mar = c(3,4,1,1))
+bp_clim(clim = ouranos_cc, indice = "Nombre de jours > 0°C", 
+        saison = "Printemps", legpos = NA, 
+        main = "Printemps")
+par(mar = c(3,2,1,1))
+
+bp_clim(clim = ouranos_cc, indice = "Nombre de jours > 0°C", 
+        saison = "Automne", 
+        ylab = "", legpos = NA, main = "Automne")
+
+bp_clim(clim = ouranos_cc, indice = "Nombre de jours > 0°C", 
+        saison = "Hiver", 
+        ylab = "", main = "Hiver")
+```
+
+**Définition**: Le nombre de jours où la température minimale est au-dessus du point de congélation. 
+
+> La longueur de la saison au dessus de 0°C  s'allonge, particulièrement en hiver (+ 18 à 35% selon le scénario et la période).
+
+> Il y aura aussi moins de jours de grand froid < -25°C (historique 4.7 jours/an vs moins de 0-0.8 selon le scénario et la période).
+
+\pagebreak
+
+## Gel-dégel
+
+```{r, fig.width=6, fig.height=3}
+par(mfrow = c(1,3), mar = c(3,4,1,1))
+bp_clim(clim = ouranos_cc, indice = "Événements de gel-dégel", 
+        saison = "Printemps", legpos = NA, 
+        main = "Printemps")
+par(mar = c(3,2,1,1))
+
+bp_clim(clim = ouranos_cc, indice = "Événements de gel-dégel", 
+        saison = "Automne", 
+        ylab = "", legpos = NA, main = "Automne")
+
+bp_clim(clim = ouranos_cc, indice = "Événements de gel-dégel", 
+        saison = "Hiver", 
+        ylab = "", main = "Hiver")
+```
+
+
+**Définition**: Un événement quotidien de gel-dégel survient quand, dans une période de 24 heures, la température minimale est inférieure à 0$^\circ$C et la température maximale est supérieure à 0$^\circ$C.
+
+> On prévoit peu de changement annuellement mais déplacement de la saisonnalité des événements de gel-dégel. Le nombre d'événements est projeté d'augmenter l'hiver mais de diminuer l'automne et au printemps.
+
+\pagebreak
+
+## Chaleurs extrêmes
+
+```{r}
+par(mar = c(3,4,1,1))
+
+bp_clim(clim = ouranos_cc, indice = "Nombre de jours de vague de chaleur", 
+        saison = "Classe 1 (Tmin > 20°C; Tmax > 33°C)",
+        ylab = "Nombre de jours de vague de chaleur")
+```
+
+**Définition**: Nombre de jours où la température max est au-dessus de 33°C et la température min est au dessus de 20°C
+
+> Le réchauffement des extrêmes de température (chauds et froids) sera plus marqué que celui des températures moyennes. Les vagues de chaleur deviendront plus fréquentes, particulièrement sous RCP 8.5.
+
+\pagebreak
+
+# Indicateurs de précipitations
+
+## Pluie
+
+```{r, fig.width=7, fig.height=3}
+par(mfrow = c(1,4), mar = c(3,4,1,1))
+bp_clim(clim = ouranos_cc, indice = "Précipitations liquides totales", 
+        saison = "Printemps", legpos = NA, 
+        main = "Printemps")
+par(mar = c(3,2,1,1))
+bp_clim(clim = ouranos_cc, indice = "Précipitations liquides totales", 
+        saison = "Été", 
+        ylab = "", legpos = NA, main = "Été")
+
+bp_clim(clim = ouranos_cc, indice = "Précipitations liquides totales", 
+        saison = "Automne", 
+        ylab = "", legpos = NA, main = "Automne")
+
+bp_clim(clim = ouranos_cc, indice = "Précipitations liquides totales", 
+        saison = "Hiver", 
+        ylab = "", main = "Hiver")
+```
+
+**Définition**: Somme de la pluie totale en millimètres (mm).
+
+> Augmentations de la quantité maximale annuelle de précipitations et augmentations des précipitations abondantes et extrêmes.
+> Toutefois, plusieurs simulations projettent des conditions plus sèches du sol annuellement et pour la saison estivale en raison de la hausse des températures (Ouranos, 2015)
+
+\pagebreak
+
+## Neige
+
+```{r, fig.height=4}
+bp_clim(clim = ouranos_cc, indice = "Précipitations solides totales", 
+        saison = "Hiver", legpos = NA, 
+        ylab = "Neige en équivalent liquide")
+```
+
+**Définition**: Somme de l'équivalent en eau de la neige totale en millimètres (mm).
+
+> On prévoit une diminution de la neige au sol et une réduction de la durée de l’enneigement
+
+
+\pagebreak
+
+# Événements extrêmes
+
+Selon Ouranos (2015):
+
+- Il n'y a pas suffisamment d’études qui se sont attardées à quantifier les changements futurs des vents à 10 mètres. 
+
+- On ne sait pas encore "si le nombre, la durée et l'intensité des épisodes de **verglas** changeront au Québec dans les décennies à venir".
+
+- On ne sait pas encore "si la fréquence et l’intensité des **cyclones post-tropicaux** (*restes d’ouragan*) qui causent des épisodes de temps sévère (pluies torrentielles, vents violents) au Québec changeront dans les prochaines décennies."
+
+- On projette une hausse de la fréquence des **orages**. Par contre, on ne sait pas si ceux-ci seront accompagnés de foudre.
+
+\pagebreak
+
+# Références
+
+Ouranos, 2021. Portraits Climatiques du Québec 1.2.0. En ligne: https://portclim.ouranos.ca/#/ 
+
+Ouranos, 2015. Vers l’adaptation. Synthèse des connaissances sur les changements climatiques au Québec. Partie 1. Évolution climatique du Québec (No. Édition 2015). Ouranos, Montréal.
+
